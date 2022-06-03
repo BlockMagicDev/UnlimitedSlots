@@ -7,7 +7,7 @@
 
 # Badges
 
-[![Lint](https://poggit.pmmp.io/ci.shield/BlockMagicDev/UnlimitedSlots/UnlimitedSlots)](https://poggit.pmmp.io/ci/BlockMagicDev/UnlimitedSlots/UnlimitedSlots)
+[![Lint](https://poggit.pmmp.io/ci.shield/BlockMagicDev/UnlimitedSlots/UnlimitedSlot)](https://poggit.pmmp.io/ci/BlockMagicDev/UnlimitedSlots/UnlimitedSlot)
 [![license](https://img.shields.io/badge/license-GPL_3.0-blue.svg)](https://github.com/BlockMagicDev/UnlimitedSlots/blob/main/LICENSE)
 [![status](https://img.shields.io/badge/status-active-brightgreen.svg)](#status)
 [![download total](https://img.shields.io/github/downloads/BlockMagicDev/UnlimitedSlots/total)](#total)
