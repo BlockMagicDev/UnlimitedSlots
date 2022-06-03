@@ -15,7 +15,5 @@ public class Main extends PluginBase implements Listener {
     @EventHandler
     public void onQuery(QueryRegenerateEvent event){
         event.setMaxPlayerCount(this.getServer().getOnlinePlayers().size()+1);
-        System.out.println("Current max player: "+this.getServer().getMaxPlayers());
-        System.out.println("Current max slot: "+event.getMaxPlayerCount());
     }
 }
