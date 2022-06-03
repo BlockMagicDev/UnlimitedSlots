@@ -4,6 +4,6 @@ branches:
 - main
 projects:
   UnlimitedSlot:
-    icon: assets/images/icon.png
+    icon: icon.png
     path: PocketMine-MP/
 ...
