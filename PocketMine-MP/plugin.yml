@@ -1,0 +1,7 @@
+name: UnlimitedSlot
+version: 1.0.0
+api: 4.0.0
+main: BlockMagicDev\UnlimitedSlot\Main
+src-namespace-prefix: BlockMagicDev\UnlimitedSlot
+author: BlockMagicDev
+website: https://github.com/BlockMagicDev
