@@ -12,10 +12,6 @@
 [![status](https://img.shields.io/badge/status-active-brightgreen.svg)](#status)
 [![download total](https://img.shields.io/github/downloads/BlockMagicDev/UnlimitedSlots/total)](#total)
 
-# Features
-- Gives the server unlimited slots
-- Easy to use
-
 # Installation
 
 1. Clone the repository.
